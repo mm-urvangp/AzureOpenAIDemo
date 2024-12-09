@@ -1,11 +1,9 @@
 ﻿using Azure;
 using Azure.AI.OpenAI;
-using AzureOpenAIDemo.Models;
 using iText.Kernel.Pdf;
 using iText.Kernel.Pdf.Canvas.Parser;
 using iText.Kernel.Pdf.Canvas.Parser.Listener;
 using Microsoft.AspNetCore.Mvc;
-using System.Diagnostics;
 using System.Text;
 using static System.Environment;
 
